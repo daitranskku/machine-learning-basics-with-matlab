@@ -13,8 +13,32 @@ Hopefully, these documents can help someone on the way self-studying machine lea
 Cheers.
 
 Dai Tran
+## Course contents
+#### Optimization problems
+Using fmin and fmincon to solve the optimization problem.
 
+Using gradient descent
 ![image2](illustration/2.png)
+
+#### Regression
+Linear/ nonlinear regression 
+![b](illustration/b.PNG)
+Denoising signal
+![c](illustration/c.PNG)
+### Classification
+![d](illustration/d.PNG)
+### SVM
+![e](illustration/e.PNG)
+### k-means
+![f](illustration/f.PNG)
+### monte carlo simulation
+![g](illustration/g.PNG)
+### PCA
+![h](illustration/h.PNG)
+### FDA
+![j](illustration/j.PNG)
+### ANN
+![4](illustration/4.PNG)
 
 ## Code explanation
 
