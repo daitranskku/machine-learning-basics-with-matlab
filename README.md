@@ -20,7 +20,8 @@ Dai Tran
 
 In [Review](Review.mlx), I summarized the basics content of this course, as well as some solutions for weekly assignments.
 
-Some helper functions like [backpropagation](backpropagation_num.m) [sigmoid](sigmoid_func.m) or [softmax](softmax_func.m) should be stay in the same folder of the main source code.
+Some helper functions like [backpropagation](backpropagation_num.m) [sigmoid](sigmoid_func.m) or [softmax](softmax_func.m) should stay in the same folder of the main source code.
+
 
 
 
